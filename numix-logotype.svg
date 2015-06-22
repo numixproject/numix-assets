@@ -1,1 +1,117 @@
-<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="200px" height="48px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.41421;"><g><g transform="matrix(1,0,0,1,0,-2)"><g transform="matrix(1,0,0,1,7.00005,-5.00001)"><path d="M21.0001,19c-0.523607,0.0071 -1.00821,0.541845 -1,1l0,3.75c0.499466,-1.0743 1.19054,-2.03972 2,-2.90625l0,-0.84375c0.0084,-0.46727 -0.465978,-1.00733 -1,-1Z" style="fill:#d64937;fill-rule:nonzero;"/></g><g transform="matrix(1,0,0,1,7.00005,-5.00001)"><path d="M21,45l0,-15.6713c0,-5.72215 4.906,-10.3288 11,-10.3288c6.094,0 11,4.60664 11,10.3288l0,15.6713" style="fill:none;stroke-width:2px;stroke:#d64937;"/></g></g><g transform="matrix(1,0,0,-1,39,57)"><path d="M21,45l0,-15.6713c0,-5.72215 4.906,-10.3288 11,-10.3288c6.094,0 11,4.60664 11,10.3288l0,15.6713" style="fill:none;stroke-width:2px;stroke:#d64937;"/></g><g transform="matrix(1,0,0,-1,117,56.9999)"><path d="M21,45l4.1e-05,-26" style="fill:none;stroke-width:2px;stroke:#d64937;"/></g><g transform="matrix(1,0,0,1,0,-2)"><g transform="matrix(0.707472,-0.706741,-0.706741,-0.707472,164.946,60.6779)"><path d="M21,45l-0.688488,-36.0628" style="fill:none;stroke-width:2px;stroke:#d64937;"/></g><g transform="matrix(0.707472,0.706741,-0.706741,0.707472,164.946,-6.67777)"><path d="M21,45l-0.688488,-36.0628" style="fill:none;stroke-width:2px;stroke:#d64937;"/></g></g><g transform="matrix(1,0,0,1,0,-2)"><g transform="matrix(0.81818,-1.11332e-16,-1.66998e-16,1,74.8182,-4.99997)"><path d="M21,45l0,-15.6713c0,-5.72215 4.906,-10.3288 11,-10.3288c3.09461,0 6.00498,1.08135 8.00001,3.00004c1.93364,1.85966 3,4.51238 3,7.32875l8.66862e-13,15.6713" style="fill:none;stroke-width:2px;stroke:#d64937;"/></g><g transform="matrix(0.81818,-1.11332e-16,-1.66998e-16,1,92.8182,-4.99997)"><path d="M21,45l-2.03215e-12,-15.6713c0,-2.77167 1.12048,-5.47727 3.00004,-7.32875c2.00082,-1.97093 4.85776,-3.00004 7.99999,-3.00004c6.094,0 11,4.60664 11,10.3288l0,15.6713" style="fill:none;stroke-width:2px;stroke:#d64937;"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg50"
+   version="1.1"
+   viewBox="0 0 160 64"
+   height="64px"
+   width="160px">
+  <metadata
+     id="metadata86">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>numix-logotype</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title52">numix-logotype</title>
+  <desc
+     id="desc54">Created with Sketch.</desc>
+  <defs
+     id="defs56" />
+  <g
+     sketch:type="MSPage"
+     fill-rule="evenodd"
+     fill="none"
+     stroke-width="1"
+     stroke="none"
+     id="Page-1">
+    <g
+       sketch:type="MSArtboardGroup"
+       id="numix-logotype">
+      <g
+         id="g60"
+         transform="translate(6.000000, 18.000000)"
+         sketch:type="MSLayerGroup">
+        <g
+           sketch:type="MSShapeGroup"
+           stroke-width="2"
+           stroke="#F1544D"
+           transform="translate(120.000000, 0.000000)"
+           id="x">
+          <g
+             transform="translate(14.074279, 14.088334) rotate(-44.970384) translate(-14.074279, -14.088334) translate(13.074279, -4.411666)"
+             id="/">
+            <path
+               id="Shape"
+               d="M0.999999819,36.9999902 L0.311512001,0.937199749" />
+          </g>
+          <g
+             transform="translate(14.074272, 13.911803) rotate(44.970384) translate(-14.074272, -13.911803) translate(13.074272, -4.588197)"
+             id="\">
+            <path
+               id="path66"
+               d="M0.999999653,36.9999902 L0.311511835,0.937199758" />
+          </g>
+        </g>
+        <g
+           sketch:type="MSShapeGroup"
+           stroke-width="2"
+           stroke="#F1544D"
+           transform="translate(111.500000, 13.999900) scale(1, -1) translate(-111.500000, -13.999900) translate(111.000000, 0.999900)"
+           id="i">
+          <path
+             id="path69"
+             d="M0,26 L4.1e-05,0" />
+        </g>
+        <g
+           sketch:type="MSShapeGroup"
+           stroke-width="2"
+           stroke="#F1544D"
+           transform="translate(64.000000, 0.000000)"
+           id="m">
+          <path
+             id="path72"
+             d="M0.99998,27.00003 L0.99998,11.32873 C0.99998,5.60658 5.01397108,0.99993 9.99996,0.99993 C12.531908,0.99993 14.9131145,2.08128 16.5454082,3.99997 C18.1274738,5.85963 18.9999482,8.51235 18.9999482,11.32872 L18.9999482,27.00002" />
+          <path
+             id="path74"
+             d="M18.99998,27.00003 L18.99998,11.32873 C18.99998,8.55706 19.9167343,5.85146 21.4545527,3.99998 C23.0915836,2.02905 25.4290748,0.99994 27.9999845,0.99994 C32.9859735,0.99994 36.9999645,5.60658 36.9999645,11.32874 L36.9999645,27.00004" />
+        </g>
+        <g
+           sketch:type="MSShapeGroup"
+           stroke-width="2"
+           stroke="#F1544D"
+           transform="translate(44.000000, 14.500000) scale(1, -1) translate(-44.000000, -14.500000) translate(33.000000, 1.000000)"
+           id="u">
+          <path
+             id="path77"
+             d="M0,27 L0,11.3287 C0,5.60655 4.906,0.9999 11,0.9999 C17.094,0.9999 22,5.60654 22,11.3287 L22,27" />
+        </g>
+        <g
+           sketch:type="MSShapeGroup"
+           id="n">
+          <path
+             fill="#F1544D"
+             id="path80"
+             d="M1.00015,0.99999 C0.476543,1.00709 -0.00806,1.541835 0.00015,1.99999 L0.00015,5.74999 C0.499616,4.67569 1.19069,3.71027 2.00015,2.84374 L2.00015,1.99999 C2.00855,1.53272 1.534172,0.99266 1.00015,0.99999 L1.00015,0.99999 Z" />
+          <path
+             stroke-width="2"
+             stroke="#F1544D"
+             id="path82"
+             d="M1.00005,26.99999 L1.00005,11.32869 C1.00005,5.60654 5.90605,0.99989 12.00005,0.99989 C18.09405,0.99989 23.00005,5.60653 23.00005,11.32869 L23.00005,26.99999" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
